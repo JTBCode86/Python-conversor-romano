@@ -18,4 +18,10 @@ Esta camada age como um "adaptador". Ela recebe dados brutos do mundo exterior (
 Esta é a camada mais externa. É o ponto de entrada da aplicação que interage diretamente com o usuário. Neste exemplo, será um simples loop de linha de comando (CLI).
 
 ## Caso de uso
+Este exemplo mostra como o programa funciona.
+
+Entrada dos dados
 ![!\[Texto alternativo para a imagem\] ](image/image.png)
+
+Resultado esperado
+![alt text](image.png)

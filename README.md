@@ -2,8 +2,9 @@
 Este repositório contém um codigo python que segue os padrões de POO e Clean arqtecture. Seu objetivo é receber um algarismo natural e convertelo para números romanos.
 
 ## Estrutura do projeto
+Abaixo uma breve descrição de como este projeto simples foi estruturado:
 
-## Explorando as camadas
+![alt text](image-1.png)
 
 ## 1. Camada de Domínio (Domain)
 Esta camada conterá a regra de negócio mais fundamental: o mapeamento entre os números e os símbolos romanos.
